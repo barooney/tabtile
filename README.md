@@ -1,5 +1,7 @@
 # tabtile
 
+Modifying textile tables is not very easy or intuitive. Here's a simple tool to create or edit tables in a WYSIWYG way.
+
 ## Project setup
 ```
 npm install
